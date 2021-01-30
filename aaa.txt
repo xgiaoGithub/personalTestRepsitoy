@@ -6,4 +6,10 @@ eeeee
 fffff
 ggggg
 
-这是心的呼唤，这是爱的奉献。
+hhhhh
+
+增加到暂存区，再修改文件，再git diff能看得出不
+
+
+
+change from featureOne
